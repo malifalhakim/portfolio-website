@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio-website/static/js/main.b0c34b4a.js",
+    "static/media/project-mask-waste.png": "/portfolio-website/static/media/project-mask-waste.641dec4c08bc0f3aa724.png",
+    "static/media/certif.png": "/portfolio-website/static/media/certif.29b4d5e00baa2b661966.png",
+    "static/media/topic-classify-project.png": "/portfolio-website/static/media/topic-classify-project.203bae246d5f323c5ab1.png",
+    "static/media/HeroImage.jpg": "/portfolio-website/static/media/HeroImage.52dd2f1803ea5509d881.jpg",
+    "static/media/project-pemilu.png": "/portfolio-website/static/media/project-pemilu.b07afdff09f76140b4eb.png",
+    "static/media/anomaly-project.png": "/portfolio-website/static/media/anomaly-project.a82ede161f24cfb056c0.png",
+    "static/media/project-nli.png": "/portfolio-website/static/media/project-nli.16e1f315b1defd19a393.png",
+    "static/media/topic-over-time.png": "/portfolio-website/static/media/topic-over-time.05802c618fc7206e4f23.png",
+    "static/media/back-end-project.png": "/portfolio-website/static/media/back-end-project.b91c4feebf58ad1d4049.png",
+    "static/media/emotion-project.png": "/portfolio-website/static/media/emotion-project.3747ee3a5d284e759bdc.png",
+    "static/media/plate-number-project.png": "/portfolio-website/static/media/plate-number-project.5d0f50fff7e7c5c7044f.png",
+    "static/media/webapp.jpeg": "/portfolio-website/static/media/webapp.278775344c14f8ac9c0e.jpeg",
+    "index.html": "/portfolio-website/index.html",
+    "main.bf538fe7.css.map": "/portfolio-website/static/css/main.bf538fe7.css.map",
+    "main.b0c34b4a.js.map": "/portfolio-website/static/js/main.b0c34b4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b0c34b4a.js"
+  ]
+}
